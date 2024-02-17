@@ -7,5 +7,5 @@ stopwatch.Start();
 
 ProblemsEasy.PTwoSum();
 
-Console.WriteLine($"\nTempo passadow: {stopwatch.Elapsed}");
+Console.WriteLine($"\nTempo passado: {stopwatch.Elapsed}");
 stopwatch.Stop();
